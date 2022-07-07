@@ -40,6 +40,11 @@ h1 {
 
 }
 
+.para-posi {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 h2 {
     display: inline-flex;
 }
